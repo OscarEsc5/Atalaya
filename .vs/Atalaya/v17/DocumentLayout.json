@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\controllers\\itemmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\controllers\\itemmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\model\\itemmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\model\\itemmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\model\\conflicts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\model\\conflicts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\controllers\\protegidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\controllers\\protegidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|c:\\users\\oscar.escamilla\\source\\repos\\atalaya\\atalaya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE8336DA-D8B5-4B08-AB44-04DCBB8E30BB}|Atalaya\\Atalaya.csproj|solutionrelative:atalaya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conflicts.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Model\\Conflicts.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Model\\Conflicts.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Model\\Conflicts.cs",
+              "RelativeToolTip": "Atalaya\\Model\\Conflicts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:14:20.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Model\\Response.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Model\\Response.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Model\\Response.cs",
+              "RelativeToolTip": "Atalaya\\Model\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:13:21.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\ItemMasterController.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Controllers\\ItemMasterController.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\ItemMasterController.cs",
+              "RelativeToolTip": "Atalaya\\Controllers\\ItemMasterController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:07:46.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemMaster.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Model\\ItemMaster.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Model\\ItemMaster.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Model\\ItemMaster.cs",
+              "RelativeToolTip": "Atalaya\\Model\\ItemMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:06:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProtegidoController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\ProtegidoController.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Controllers\\ProtegidoController.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\ProtegidoController.cs",
+              "RelativeToolTip": "Atalaya\\Controllers\\ProtegidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:16:38.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Atalaya\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:14:18.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Atalaya\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:47:44.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Program.cs",
+              "RelativeDocumentMoniker": "Atalaya\\Program.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\Program.cs",
+              "RelativeToolTip": "Atalaya\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswDgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T22:11:34.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Atalaya\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\WeatherForecast.cs",
+              "RelativeToolTip": "Atalaya\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:47:42.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\appsettings.json",
+              "RelativeDocumentMoniker": "Atalaya\\appsettings.json",
+              "ToolTip": "C:\\Users\\oscar.escamilla\\source\\repos\\Atalaya\\Atalaya\\appsettings.json",
+              "RelativeToolTip": "Atalaya\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-20T22:49:10.232Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,6 @@
+using Atalaya.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
@@ -9,6 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Configuración del proveedor OAuth 2.0 (ejemplo con claves JWT)
 var key = Encoding.UTF8.GetBytes(builder.Configuration["JwtSettings:Secret"]); // Guarda esto en variables de entorno
+
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -21,8 +24,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateAudience = true,
             ValidIssuer = builder.Configuration["JwtSettings:Issuer"],
             ValidAudience = builder.Configuration["JwtSettings:Audience"],
-            RequireExpirationTime = true,
-            ValidateLifetime = true
+            RequireExpirationTime = false,
+            ValidateLifetime = false
         };
     });
 

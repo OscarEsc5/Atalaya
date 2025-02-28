@@ -14,10 +14,14 @@ C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Micro
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\System.Data.Odbc.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.Odbc.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\bin\x64\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atalaya.csproj.AssemblyReference.cache
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atalaya.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atalaya.AssemblyInfoInputs.cache
@@ -25,6 +29,7 @@ C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atala
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atalaya.csproj.CoreCompileInputs.cache
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atalaya.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atalaya.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\Atalaya.sourcelink.json
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\scopedcss\bundle\Atalaya.styles.css
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\staticwebassets.build.json
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\x64\Debug\net8.0\staticwebassets.development.json

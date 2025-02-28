@@ -13,7 +13,11 @@ C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\System.Data.Odbc.dll
 C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\net8.0\System.Data.Odbc.dll
+C:\Users\oscar.escamilla\source\repos\Atalaya\Atalaya\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\net8.0\System.Data.Odbc.dll

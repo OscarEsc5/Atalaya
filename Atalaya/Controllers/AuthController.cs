@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Atalaya.Data;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 
 namespace Atalaya.Controllers
@@ -13,7 +15,6 @@ namespace Atalaya.Controllers
     public class AuthController : Controller
     {
         private readonly IConfiguration _configuration;
-
         public AuthController(IConfiguration configuration)
         {
             _configuration = configuration;
@@ -24,8 +25,11 @@ namespace Atalaya.Controllers
         {
             if (request.Username == "admin" && request.Password == "password123") // Simulación
             {
+                
                 var tokenHandler = new JwtSecurityTokenHandler();
-                var key = Encoding.UTF8.GetBytes(_configuration["JwtSettings:Secret"]);
+                //var key = Encoding.UTF8.GetBytes(_configuration["JwtSettings:Secret"]);
+                var keyConfig = new KeyConfiguration(_configuration);
+                var key = keyConfig.SecretKey;
                 var tokenDescriptor = new SecurityTokenDescriptor
                 {
                     Subject = new ClaimsIdentity(new[]

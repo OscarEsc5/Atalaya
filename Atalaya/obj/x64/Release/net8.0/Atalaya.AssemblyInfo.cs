@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atalaya")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+414d6212681e4e5ad217062ac2ae9ab63a9d7d2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atalaya")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atalaya")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
